@@ -120,7 +120,7 @@ void ShowTimeSlotTable(RouterMap map, int timeslot)
 {
     AnsiConsole.WriteLine("Router map for router: " + map.RouterName + " for time t" + timeslot);
 
-    Table table = new Table().Centered();
+    Table table = new Table();
 
     table.AddColumn(new TableColumn("To (Destination)"));
     table.AddColumn(new TableColumn("Via router"));
