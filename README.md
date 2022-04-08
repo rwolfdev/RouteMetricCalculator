@@ -19,3 +19,5 @@ E G 1
 H G 3
 F H 9
 ```
+## Example output for time t4
+![image](https://user-images.githubusercontent.com/18228345/162406050-59bc64f7-9caf-44a0-92fb-ac77bbf1a871.png)
