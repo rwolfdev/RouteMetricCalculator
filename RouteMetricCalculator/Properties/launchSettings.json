@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RouteMetricCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\0\\routes.txt\""
+    }
+  }
+}
